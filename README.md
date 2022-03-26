@@ -1,5 +1,5 @@
 👧🏾Hi , I am @Phelister am a  go getter kind of lady who believes nothing is impossible with God.  I am an end to end IOT software Engineer at Safaricom and the co-founder and Technical Electrical Director at Briphe Services.
-I am currently looking into collaborating  on projects around c#, java, Linux, html, css and javascript.
+I am currently looking into collaborating  on projects around c#, java, python, Linux, html, css and javascript. I have 4 years experience in development.
 ✨Mission: To leave a positive impact in the lives of everyone I interact with and to be a voice to the voiceless.
 
 Achievements
